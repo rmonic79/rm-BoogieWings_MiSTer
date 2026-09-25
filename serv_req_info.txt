@@ -1,0 +1,240 @@
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (4952 megabytes used)</error>
+	<date>Thu Jun 04 15:44:13 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5015 megabytes used)</error>
+	<date>Thu Jun 04 15:44:13 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (4940 megabytes used)</error>
+	<date>Thu Jun 04 15:44:13 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (4918 megabytes used)</error>
+	<date>Thu Jun 04 15:44:13 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5015 megabytes used)</error>
+	<date>Thu Jun 04 15:44:13 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5015 megabytes used)</error>
+	<date>Thu Jun 04 15:44:14 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5015 megabytes used)</error>
+	<date>Thu Jun 04 15:44:14 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5015 megabytes used)</error>
+	<date>Thu Jun 04 15:44:14 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5027 megabytes used)</error>
+	<date>Thu Jun 04 15:44:14 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5029 megabytes used)</error>
+	<date>Mon Jun 15 22:07:42 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5032 megabytes used)</error>
+	<date>Mon Jun 15 22:07:42 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5029 megabytes used)</error>
+	<date>Mon Jun 15 22:07:42 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5029 megabytes used)</error>
+	<date>Mon Jun 15 22:07:42 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5029 megabytes used)</error>
+	<date>Mon Jun 15 22:07:43 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5038 megabytes used)</error>
+	<date>Mon Jun 15 22:07:43 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5029 megabytes used)</error>
+	<date>Mon Jun 15 22:07:43 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (4947 megabytes used)</error>
+	<date>Mon Jun 15 22:36:47 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (4941 megabytes used)</error>
+	<date>Mon Jun 15 22:36:47 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (4957 megabytes used)</error>
+	<date>Mon Jun 15 22:36:47 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5029 megabytes used)</error>
+	<date>Mon Jun 15 22:36:47 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5032 megabytes used)</error>
+	<date>Mon Jun 15 22:36:47 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5054 megabytes used)</error>
+	<date>Mon Jun 15 22:36:47 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5029 megabytes used)</error>
+	<date>Mon Jun 15 22:36:47 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5029 megabytes used)</error>
+	<date>Mon Jun 15 22:36:47 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5038 megabytes used)</error>
+	<date>Mon Jun 15 22:36:47 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (4932 megabytes used)</error>
+	<date>Mon Jun 15 23:16:48 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (4921 megabytes used)</error>
+	<date>Mon Jun 15 23:16:48 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5029 megabytes used)</error>
+	<date>Mon Jun 15 23:16:48 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5029 megabytes used)</error>
+	<date>Mon Jun 15 23:16:49 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+
+<internal_error>
+	<executable>quartus_map.exe</executable>
+	<sub_system>MEM</sub_system>
+	<error>*** Fatal Error: Out of memory in module quartus_map.exe (5027 megabytes used)</error>
+	<date>Mon Jun 15 23:16:49 2026</date>
+	<version>Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition</version>
+</internal_error>
+

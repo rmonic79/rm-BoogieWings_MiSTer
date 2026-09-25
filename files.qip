@@ -1,0 +1,3 @@
+# BoogieWings project files
+# Tutti i ref RTL sono nel .qsf principale (rtl/common/, rtl/boogwings/, rtl/fx68k/, ecc).
+# Questo file è vuoto — i ref vecchi a Darius2/jt12/t80/jt5205 (in _trash/) sono stati rimossi.
